@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zenawi Medhanye.
-- 👀 I’m Electrical Engineer currently working on EDA and ML projects.
-- 🌱 I’m interested ML and Data Science positions.
+- 👀 I’m Software Engineer currently working on EDA and ML projects.
 - 📫 Reach me: zmedhnaye@gmail.com/ 8126043617
 
 <!---
